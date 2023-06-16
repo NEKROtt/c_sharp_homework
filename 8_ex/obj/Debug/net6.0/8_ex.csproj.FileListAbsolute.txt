@@ -1,0 +1,15 @@
+/Users/nekrouwu/CC##/8_ex/bin/Debug/net6.0/8_ex
+/Users/nekrouwu/CC##/8_ex/bin/Debug/net6.0/8_ex.deps.json
+/Users/nekrouwu/CC##/8_ex/bin/Debug/net6.0/8_ex.runtimeconfig.json
+/Users/nekrouwu/CC##/8_ex/bin/Debug/net6.0/8_ex.dll
+/Users/nekrouwu/CC##/8_ex/bin/Debug/net6.0/8_ex.pdb
+/Users/nekrouwu/CC##/8_ex/obj/Debug/net6.0/8_ex.csproj.AssemblyReference.cache
+/Users/nekrouwu/CC##/8_ex/obj/Debug/net6.0/8_ex.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nekrouwu/CC##/8_ex/obj/Debug/net6.0/8_ex.AssemblyInfoInputs.cache
+/Users/nekrouwu/CC##/8_ex/obj/Debug/net6.0/8_ex.AssemblyInfo.cs
+/Users/nekrouwu/CC##/8_ex/obj/Debug/net6.0/8_ex.csproj.CoreCompileInputs.cache
+/Users/nekrouwu/CC##/8_ex/obj/Debug/net6.0/8_ex.dll
+/Users/nekrouwu/CC##/8_ex/obj/Debug/net6.0/refint/8_ex.dll
+/Users/nekrouwu/CC##/8_ex/obj/Debug/net6.0/8_ex.pdb
+/Users/nekrouwu/CC##/8_ex/obj/Debug/net6.0/8_ex.genruntimeconfig.cache
+/Users/nekrouwu/CC##/8_ex/obj/Debug/net6.0/ref/8_ex.dll
