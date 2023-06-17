@@ -1,0 +1,15 @@
+/Users/nekrouwu/DomZad/c_sharp_homework/13_ex/bin/Debug/net6.0/13_ex
+/Users/nekrouwu/DomZad/c_sharp_homework/13_ex/bin/Debug/net6.0/13_ex.deps.json
+/Users/nekrouwu/DomZad/c_sharp_homework/13_ex/bin/Debug/net6.0/13_ex.runtimeconfig.json
+/Users/nekrouwu/DomZad/c_sharp_homework/13_ex/bin/Debug/net6.0/13_ex.dll
+/Users/nekrouwu/DomZad/c_sharp_homework/13_ex/bin/Debug/net6.0/13_ex.pdb
+/Users/nekrouwu/DomZad/c_sharp_homework/13_ex/obj/Debug/net6.0/13_ex.csproj.AssemblyReference.cache
+/Users/nekrouwu/DomZad/c_sharp_homework/13_ex/obj/Debug/net6.0/13_ex.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nekrouwu/DomZad/c_sharp_homework/13_ex/obj/Debug/net6.0/13_ex.AssemblyInfoInputs.cache
+/Users/nekrouwu/DomZad/c_sharp_homework/13_ex/obj/Debug/net6.0/13_ex.AssemblyInfo.cs
+/Users/nekrouwu/DomZad/c_sharp_homework/13_ex/obj/Debug/net6.0/13_ex.csproj.CoreCompileInputs.cache
+/Users/nekrouwu/DomZad/c_sharp_homework/13_ex/obj/Debug/net6.0/13_ex.dll
+/Users/nekrouwu/DomZad/c_sharp_homework/13_ex/obj/Debug/net6.0/refint/13_ex.dll
+/Users/nekrouwu/DomZad/c_sharp_homework/13_ex/obj/Debug/net6.0/13_ex.pdb
+/Users/nekrouwu/DomZad/c_sharp_homework/13_ex/obj/Debug/net6.0/13_ex.genruntimeconfig.cache
+/Users/nekrouwu/DomZad/c_sharp_homework/13_ex/obj/Debug/net6.0/ref/13_ex.dll
