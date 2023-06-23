@@ -1,0 +1,15 @@
+/Users/nekrouwu/любая дз/c_sharp_homework/23_ex/bin/Debug/net6.0/23_ex
+/Users/nekrouwu/любая дз/c_sharp_homework/23_ex/bin/Debug/net6.0/23_ex.deps.json
+/Users/nekrouwu/любая дз/c_sharp_homework/23_ex/bin/Debug/net6.0/23_ex.runtimeconfig.json
+/Users/nekrouwu/любая дз/c_sharp_homework/23_ex/bin/Debug/net6.0/23_ex.dll
+/Users/nekrouwu/любая дз/c_sharp_homework/23_ex/bin/Debug/net6.0/23_ex.pdb
+/Users/nekrouwu/любая дз/c_sharp_homework/23_ex/obj/Debug/net6.0/23_ex.csproj.AssemblyReference.cache
+/Users/nekrouwu/любая дз/c_sharp_homework/23_ex/obj/Debug/net6.0/23_ex.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nekrouwu/любая дз/c_sharp_homework/23_ex/obj/Debug/net6.0/23_ex.AssemblyInfoInputs.cache
+/Users/nekrouwu/любая дз/c_sharp_homework/23_ex/obj/Debug/net6.0/23_ex.AssemblyInfo.cs
+/Users/nekrouwu/любая дз/c_sharp_homework/23_ex/obj/Debug/net6.0/23_ex.csproj.CoreCompileInputs.cache
+/Users/nekrouwu/любая дз/c_sharp_homework/23_ex/obj/Debug/net6.0/23_ex.dll
+/Users/nekrouwu/любая дз/c_sharp_homework/23_ex/obj/Debug/net6.0/refint/23_ex.dll
+/Users/nekrouwu/любая дз/c_sharp_homework/23_ex/obj/Debug/net6.0/23_ex.pdb
+/Users/nekrouwu/любая дз/c_sharp_homework/23_ex/obj/Debug/net6.0/23_ex.genruntimeconfig.cache
+/Users/nekrouwu/любая дз/c_sharp_homework/23_ex/obj/Debug/net6.0/ref/23_ex.dll
