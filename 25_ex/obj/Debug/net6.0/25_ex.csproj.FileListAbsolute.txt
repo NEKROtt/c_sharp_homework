@@ -1,0 +1,15 @@
+/Users/nekrouwu/nova/c_sharp_homework/25_ex/bin/Debug/net6.0/25_ex
+/Users/nekrouwu/nova/c_sharp_homework/25_ex/bin/Debug/net6.0/25_ex.deps.json
+/Users/nekrouwu/nova/c_sharp_homework/25_ex/bin/Debug/net6.0/25_ex.runtimeconfig.json
+/Users/nekrouwu/nova/c_sharp_homework/25_ex/bin/Debug/net6.0/25_ex.dll
+/Users/nekrouwu/nova/c_sharp_homework/25_ex/bin/Debug/net6.0/25_ex.pdb
+/Users/nekrouwu/nova/c_sharp_homework/25_ex/obj/Debug/net6.0/25_ex.csproj.AssemblyReference.cache
+/Users/nekrouwu/nova/c_sharp_homework/25_ex/obj/Debug/net6.0/25_ex.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nekrouwu/nova/c_sharp_homework/25_ex/obj/Debug/net6.0/25_ex.AssemblyInfoInputs.cache
+/Users/nekrouwu/nova/c_sharp_homework/25_ex/obj/Debug/net6.0/25_ex.AssemblyInfo.cs
+/Users/nekrouwu/nova/c_sharp_homework/25_ex/obj/Debug/net6.0/25_ex.csproj.CoreCompileInputs.cache
+/Users/nekrouwu/nova/c_sharp_homework/25_ex/obj/Debug/net6.0/25_ex.dll
+/Users/nekrouwu/nova/c_sharp_homework/25_ex/obj/Debug/net6.0/refint/25_ex.dll
+/Users/nekrouwu/nova/c_sharp_homework/25_ex/obj/Debug/net6.0/25_ex.pdb
+/Users/nekrouwu/nova/c_sharp_homework/25_ex/obj/Debug/net6.0/25_ex.genruntimeconfig.cache
+/Users/nekrouwu/nova/c_sharp_homework/25_ex/obj/Debug/net6.0/ref/25_ex.dll
