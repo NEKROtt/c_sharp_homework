@@ -1,0 +1,15 @@
+/Users/nekrouwu/nova2/c_sharp_homework/60_ex/bin/Debug/net6.0/60_ex
+/Users/nekrouwu/nova2/c_sharp_homework/60_ex/bin/Debug/net6.0/60_ex.deps.json
+/Users/nekrouwu/nova2/c_sharp_homework/60_ex/bin/Debug/net6.0/60_ex.runtimeconfig.json
+/Users/nekrouwu/nova2/c_sharp_homework/60_ex/bin/Debug/net6.0/60_ex.dll
+/Users/nekrouwu/nova2/c_sharp_homework/60_ex/bin/Debug/net6.0/60_ex.pdb
+/Users/nekrouwu/nova2/c_sharp_homework/60_ex/obj/Debug/net6.0/60_ex.csproj.AssemblyReference.cache
+/Users/nekrouwu/nova2/c_sharp_homework/60_ex/obj/Debug/net6.0/60_ex.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nekrouwu/nova2/c_sharp_homework/60_ex/obj/Debug/net6.0/60_ex.AssemblyInfoInputs.cache
+/Users/nekrouwu/nova2/c_sharp_homework/60_ex/obj/Debug/net6.0/60_ex.AssemblyInfo.cs
+/Users/nekrouwu/nova2/c_sharp_homework/60_ex/obj/Debug/net6.0/60_ex.csproj.CoreCompileInputs.cache
+/Users/nekrouwu/nova2/c_sharp_homework/60_ex/obj/Debug/net6.0/60_ex.dll
+/Users/nekrouwu/nova2/c_sharp_homework/60_ex/obj/Debug/net6.0/refint/60_ex.dll
+/Users/nekrouwu/nova2/c_sharp_homework/60_ex/obj/Debug/net6.0/60_ex.pdb
+/Users/nekrouwu/nova2/c_sharp_homework/60_ex/obj/Debug/net6.0/60_ex.genruntimeconfig.cache
+/Users/nekrouwu/nova2/c_sharp_homework/60_ex/obj/Debug/net6.0/ref/60_ex.dll
